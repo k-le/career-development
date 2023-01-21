@@ -1,2 +1,2 @@
-# career-development-drawio
+# career-development
 Houses draw.io architectural diagrams
